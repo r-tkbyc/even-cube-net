@@ -52,6 +52,12 @@ Preparing for Even Hub submission — this page will be updated once the app is 
 Developed and tested on Android. iOS should work (same ring-input pattern as my
 other G2 apps) — please report anything odd.
 
+## Community
+
+There is a thread for this app on the Even Hub community Discord — questions,
+bug reports and screenshots are all welcome:
+[CubeNet thread](https://discord.com/channels/1301124787740868620/1536668423403212930)
+
 ## About this repository
 
 This repo hosts the built web bundle of the app (G2 apps are HTML/JS served
@@ -114,6 +120,12 @@ Even Hub への申請を準備中です。公開されたらこのページを�
 
 開発と動作確認は Android で行っています。iOS でも動くはずです（他の G2 アプリと
 同じリング入力の作りです）。おかしなところがあれば教えてください。
+
+## コミュニティ
+
+Even Hub コミュニティの Discord にこのアプリのスレッドがあります。質問も、不具合の
+報告も、スクショも、どれでもどうぞ。
+[CubeNet のスレッド](https://discord.com/channels/1301124787740868620/1536668423403212930)
 
 ## このリポジトリについて
 
